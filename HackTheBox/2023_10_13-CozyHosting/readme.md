@@ -1,6 +1,6 @@
 # Analytics - Writeup
 
-**Date**: 13/10/2022
+**Date**: 13/10/2023
 
 **Difficulty**: EASY
 
